@@ -10,7 +10,7 @@ v1.0  (2019.02.21) First version
 After incrementing the version number, reload the page where you display your Home Assistant page (usually by holding down command/control and reloading the page - might differ from browser to browser).
 
 ## How to install
-1. Copy the script (world-clock.js) to your local directory (I suggest to place all plugins in a directory "plugins" inside your www-folder and to add a new directory inside this for each custom card - if not: adjust the path to world-clock.js). The file world-clock.png is not necessary - it's just there so I can display the picture of the card above.
+1. Copy the script (world-clock.js) to your local directory (I suggest to place all plugins in a directory "plugins" inside your www-folder - if not: adjust the path to world-clock.js). The file world-clock.png is not necessary - it's just there so I can display the picture of the card above.
 2. Add this to your ui-lovelace.yaml:
 
 ```
