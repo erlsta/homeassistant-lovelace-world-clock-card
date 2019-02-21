@@ -1,5 +1,5 @@
 # homeassistant-lovelace-world-clock-card
-Custom card to display one or more world clocks in Lovelace.
+Custom card to display one or more world clocks in Lovelace. In the example below, several instances of world-clock are arranged with `horizontal-stack`.
 
 ![Image of world-clock-card](https://github.com/erlsta/homeassistant-lovelace-world-clock-card/blob/master/world-clock.png)
 
