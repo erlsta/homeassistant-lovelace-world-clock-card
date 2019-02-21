@@ -1,7 +1,7 @@
 # homeassistant-lovelace-world-clock-card
 Custom card to display one or more world clocks in Lovelace.
 
-![Image of birthday-card](https://github.com/erlsta/homeassistant-lovelace-birthday-reminder-card/blob/master/birthday-card.png)
+![Image of world-clock-card](https://github.com/erlsta/homeassistant-lovelace-world-clock-card/blob/master/world-clock.png)
 
 ## Version history
 v1.0  (2019.02.21) First version
