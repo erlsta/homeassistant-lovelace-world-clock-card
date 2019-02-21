@@ -42,6 +42,6 @@ views:
 
 `mode` (optional) If set to "12h" the time will be displayed in 12 hour mode (defaults to 24 hour).
 
-`daylight_saving_time` (optional) true OR false (dafaults to false).
+`daylight_saving_time` (optional) true OR false (dafaults to false). A ‡ symbol is displayed behind the time if daylight saving time is turned on.
 
 `separator` (optional) Set another separator to be displayed between hours and minutes (defaults to a point ".").
